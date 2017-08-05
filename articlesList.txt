@@ -9,3 +9,6 @@ https://www.ibm.com/developerworks/jp/web/library/wa-aj-tomcat/
 
 --Jax-Rs Ref
 https://backpaper0.github.io/ghosts/jaxrs-getting-started-and-practice.html#1
+
+--Way of HashMap Ref
+http://d.hatena.ne.jp/knowledgefort/20090816/1250401699
